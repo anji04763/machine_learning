@@ -2,8 +2,26 @@
  "cells": [
   {
    "cell_type": "code",
+   "execution_count": 1,
+   "id": "ef124fcc",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "hello world\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(\"hello world\")"
+   ]
+  },
+  {
+   "cell_type": "code",
    "execution_count": null,
-   "id": "cce604c8",
+   "id": "d5651f4c",
    "metadata": {},
    "outputs": [],
    "source": []
